@@ -1,0 +1,8 @@
+Category,Budget,Actual_Spending,Remaining,Used_Percentage,Status
+Food,10000,9850,150,98.5,Within Budget
+Travel,5000,2690,2310,53.800000000000004,Within Budget
+Education,8000,13505,-5505,168.8125,Over Budget
+Shopping,7000,26676,-19676,381.0857142857143,Over Budget
+Entertainment,4000,6899,-2899,172.475,Over Budget
+Bills,12000,8987,3013,74.89166666666667,Within Budget
+Health,5000,3550,1450,71.0,Within Budget
